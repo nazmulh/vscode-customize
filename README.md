@@ -6,3 +6,7 @@
 Soln: Press `Ctrl+,` and you will see preferrence setting. Search `Match Brackets` and uncheck it.
 
 ![issue](https://i.imgur.com/D0qU69i.png)
+
+2. Extention for PHP dev.
+`PHP IntelliSense`
+
